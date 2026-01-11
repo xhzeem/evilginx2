@@ -101,14 +101,6 @@ To enable the Web Interface, use the `-web` flag when starting Evilginx:
 - `-web-port`: Port number for the Web Interface (default: `8080`).
 - `-web-auth`: Basic Authentication credentials (default: `admin:evilginx`). Format: `user:pass`.
 
-### Key Features:
-- **Interactive Dashboard**: Modern dark-themed dashboard with real-time stats, server information, and recent session activity.
-- **Phishlet Management**: Enable/disable phishlets and configure hostnames directly from the browser.
-- **Lure Generation**: Create and manage phishing lures with a single click.
-- **Session Exploration**: View captured credentials and session cookies in a structured format.
-- **Real-time Notifications**: Instant feedback for all actions via a toast notification system.
-- **Mobile Responsive**: Fully responsive design for managing your campaigns on the go.
-
 ## Help
 
 In case you want to learn how to install and use **Evilginx**, please refer to online documentation available at:
